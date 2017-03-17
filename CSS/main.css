@@ -1,0 +1,32 @@
+header {
+	margin-bottom: 20px; 
+	background-color: orange;
+}
+
+/*main {
+	padding-top: 25px;
+}*/
+
+.card-image {
+	width: 100%;
+}
+
+.card-content {
+	padding-left: 10px;
+}
+
+.card {
+	border: 1px solid lightgrey;
+	margin-bottom: 10px;
+}
+
+div.topbar {
+	background-color: orange;
+}
+
+
+* {
+	font-family: roboto;
+}
+
+}
